@@ -724,7 +724,7 @@ a.nostyle:visited {
   height: 32px;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1500px) {
   /* Constant */
   .logo {
     height: 60px;
