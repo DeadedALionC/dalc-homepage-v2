@@ -203,7 +203,7 @@ section {
   text-align: center;
 }
 .home-section {
-  background-image: url('../images/home-background.png');
+  background-image: url('../images/home-background.webp');
   background-color: #979ea5;
   background-size: contain;
   background-position-x: center;
@@ -237,7 +237,7 @@ section {
 /* About */
 .about-section {
   height: 120vh;
-  background-image: url('/images/about-background.png');
+  background-image: url('/images/about-background.webp');
   background-color: #979ea5;
   background-size: contain;
   background-position-x: center;
@@ -299,7 +299,7 @@ section {
 /* Story  */
 .story-section {
   height: 218vh;
-  background-image: url('../images/story-background.png');
+  background-image: url('../images/story-background.webp');
   background-color: #975f3d;
   background-size: cover;
   background-repeat: no-repeat;
@@ -347,7 +347,7 @@ section {
 /* Roadmap */
 .roadmap-section {
   height: 495vh;
-  background-image: url('../images/roadmap-background.png');
+  background-image: url('../images/roadmap-background.webp');
   background-color: #1d1f1d;
   background-size: cover;
   background-repeat: no-repeat;
@@ -464,7 +464,7 @@ section {
 .team-section {
   height: 250vh;
   width: 100%;
-  background-image: url('../images/team-background.png');
+  background-image: url('../images/team-background.webp');
   background-color: #1d1f1d;
   background-size: cover;
   background-repeat: no-repeat;
@@ -526,7 +526,7 @@ section {
 .faq-section {
   /* height: auto; */
   width: 100%;
-  background-image: url('../images/faq-background.png');
+  background-image: url('../images/faq-background.webp');
   background-color: #3b150c !important;
   background-size: cover;
   background-repeat: no-repeat;
@@ -581,10 +581,10 @@ input {
   justify-content: space-between;
   padding: 10px;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 1.7rem;
   cursor: pointer;
   margin-bottom: 0;
-  font-family: 'therestone';
+  font-family: 'Merriweather', serif;
 }
 .tab-label::after {
   content: '❯';
